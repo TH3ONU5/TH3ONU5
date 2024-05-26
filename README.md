@@ -5,12 +5,12 @@
   
 
 ### <div align="center"> Secondary School Student | IT Security Enthusiast | Webdeveloper</div>  
-  
-
-- 🛠️ Right now, I'm working on [Vooid](https://vooid.de).  
-  
+    
 
 - 💡 I’m currently learning PHP and IT penetration testing.  
+
+
+- 🛠️ Right now, I'm working on [Vooid](https://vooid.de).  
   
 
 - 👨🏻‍💻 I’m looking to collaborate on open-source projects related to IT security and PHP development.  
