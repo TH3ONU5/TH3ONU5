@@ -25,6 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=TH3ONU5&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" alt="TH3ONU5's GitHub Stats"/><br/>
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TH3ONU5&theme=dracula&hide_border=false" alt="TH3ONU5's GitHub Streak"/><br/>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TH3ONU5&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="TH3ONU5's Top Languages"/>
 </div>
 
