@@ -22,9 +22,13 @@
 # 📊 Statistics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TH3ONU5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=TH3ONU5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TH3ONU5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3onu5&show_icons=true&locale=en&layout=compact" alt="th3onu5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th3onu5&show_icons=true&locale=en" alt="th3onu5" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3onu5&" alt="th3onu5" /></p>
+
 </div>
 
 <br>
