@@ -1,5 +1,5 @@
 # 💫 About Me
-<img src="https://github.com/TH3ONU5/TH3ONU5/blob/main/banner.png" width="100%">
+<img src="https://github.com/TH3ONU5/TH3ONU5/blob/main/hello-world.png" width="100%">
 
 <p></p>
 <br>
