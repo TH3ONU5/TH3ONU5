@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TH3ONU5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<picture width="100%" height="450px" align="center">
+<picture width="100%">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/TH3ONU5/snk/output/github-contribution-grid-snake-dark.svg"
