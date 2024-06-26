@@ -41,9 +41,6 @@
 <p></p>
 <br>
 
-<div align="">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=TH3ONU5&icon=7&color=0" alt="Visitor Count"/>
-    </a>
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TH3ONU5&label=Profile%20Views&icon=2&pretty=true" />
+</a>
