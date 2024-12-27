@@ -16,11 +16,6 @@
   </a>
 </p>
 
-<h3 style="color:#58a6ff;">Connect with me:</h3>
-<p>
-  <!-- Add your social media or contact links here -->
-</p>
-
 <h3 style="color:#58a6ff;">Languages and Tools:</h3>
 <p>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
