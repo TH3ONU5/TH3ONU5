@@ -9,14 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th3onu5" alt="th3onu5" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
-
-<h1 style="color:#58a6ff;">Hi there! 👋</h1>
-
-<h3 style="color:#c9d1d9;">A passionate frontend developer from India</h3>
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=th3onu5&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
