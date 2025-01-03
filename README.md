@@ -56,7 +56,6 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mahdi-m-37572b312/))
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-4682B4?style=for-the-badge&logo=hackthebox&logoColor=white)](your-htb-url)
 
 ## 🐍 Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
