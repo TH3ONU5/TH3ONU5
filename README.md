@@ -43,8 +43,7 @@
 
 ### Operating Systems & Platforms
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-6495ED?style=for-the-badge&logo=kali-linux&logoColor=white)
-![ParrotOS](https://img.shields.io/badge/ParrotOS-1E90FF?style=for-the-badge&logo=linux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-4682B4?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Make Linux](https://img.shields.io/badge/Make_Linux-32CD32?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 📊 GitHub Stats
 
