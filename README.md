@@ -55,7 +55,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=th3onu5&bg_color=0D1117&color=4169E1&line=6495ED&point=1E90FF&area=true&hide_border=true" width="98%" alt="Contribution Graph">
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mahdi-m-37572b312/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-m-37572b312/)
 
 ## 🐍 Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
