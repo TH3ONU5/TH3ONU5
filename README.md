@@ -1,7 +1,7 @@
 <div align="left">
 
 # Hi, I'm Mahdi! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=224fa1&center=true&width=1000&height=100&lines=,+Welcome+on+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=224fa1&center=true&width=1000&height=100&lines=+Welcome+on+my+Github+Profile)](https://git.io/typing-svg)
 
 ![Hello World](./hello-world.png)
 
