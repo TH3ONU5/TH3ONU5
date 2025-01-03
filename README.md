@@ -5,17 +5,6 @@
 
 ![Hello World](./hello-world.png)
 
-## 🌟 About Me
-
-```php
-$name = "Mahdi";
-$age = 16;
-$interested_in = ["Web Development", "Pentesting"];
-```
-- 💻 Passionate about building secure web systems  
-- 🔐 Aspiring pentester with a focus on cybersecurity  
-- 🚀 Always learning and exploring new technologies to improve my skills
-
 ## ⚙️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-%2300599C.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -24,7 +13,6 @@ $interested_in = ["Web Development", "Pentesting"];
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
 
