@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi, I'm Mahdi! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=blue&center=true&width=1000&lines=Student,+Web+Developer,+and+Pentester)](https://git.io/typing-svg)
