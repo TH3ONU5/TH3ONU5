@@ -12,10 +12,9 @@ $name = "Mahdi";
 $age = 16;
 $interested_in = ["Web Development", "Pentesting"];
 ```
-
-- 💻 Passionate about building secure and efficient web systems
-- 🌐 Exploring the intersection of technology and cybersecurity
-- 🚀 Constantly learning and experimenting with new technologies
+=> 💻 Passionate about building secure web systems.
+=> 🔐 Aspiring pentester, constantly learning about cybersecurity.
+=> 🚀 Exploring new technologies and improving my skills every day.
 
 ## ⚙️ Tech Stack
 
