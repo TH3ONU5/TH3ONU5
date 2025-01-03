@@ -1,61 +1,38 @@
 <div align="center">
 
-# [⚡ TH3ONU5 ⚡]
-  
-![Matrix Animation](https://github.com/TH3ONU5/TH3ONU5/blob/main/hello-world.png)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=4000&pause=1000&color=00FF00&center=true&width=1000&lines=SYSTEM+BOOT:+TH3ONU5;INITIALIZING...;ACCESS+GRANTED)
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  WARNING: UNAUTHORIZED ACCESS TO THIS PROFILE IS PROHIBITED   ║
-║  SYSTEM WILL TRACE AND REPORT ALL INTRUSION ATTEMPTS         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://github.com/TH3ONU5/TH3ONU5/blob/main/hello-world.png" width="100%">
 
-<img src="https://komarev.com/ghpvc/?username=th3onu5&label=PROFILE%20HITS&color=00ff00&style=for-the-badge&label=Profile+Views" alt="Profile Views Counter"/>
+![Matrix SVG](https://raw.githubusercontent.com/kuncung38/kuncung38/output/github-contribution-grid-snake-dark.svg)
 
-</div>
+<!-- Profile Views Counter with Cyberpunk Style -->
+![](https://komarev.com/ghpvc/?username=th3onu5&label=SYSTEM+INTRUSIONS&color=00ff00&style=for-the-badge)
 
----
+<!-- Animated Stats Cards -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=th3onu5&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00&border_color=00ff00" width="400px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=th3onu5&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="400px">
+</p>
 
-### `> SYSTEM ANALYSIS`
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=th3onu5&theme=matrix&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Skill Matrix -->
+<h3 align="center">CORE SYSTEMS</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-★★★-00ff00?style=for-the-badge&logo=php&logoColor=00ff00&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/HTML5-★★★-00ff00?style=for-the-badge&logo=html5&logoColor=00ff00&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CSS3-★★★-00ff00?style=for-the-badge&logo=css3&logoColor=00ff00&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MySQL-★★★-00ff00?style=for-the-badge&logo=mysql&logoColor=00ff00&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LINUX-★★★-00ff00?style=for-the-badge&logo=linux&logoColor=00ff00&labelColor=0D1117"/>
+</p>
 
-### `> TACTICAL ARSENAL`
-<div align="center">
+<!-- Animated Terminal Effect -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1000&pause=1000&color=00FF00&center=true&multiline=true&repeat=false&width=500&height=100&lines=STATUS%3A+Student;ROLE%3A+Webdeveloper+%26+Pentester;LOCATION%3A+ENCRYPTED" alt="Typing SVG" />
+</p>
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- Contribution Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=th3onu5&custom_title=SYSTEM%20ACTIVITY%20LOG&bg_color=0D1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)
 
-</div>
-
-### `> EXECUTION METRICS`
-<div align="center">
-
-![TH3ONU5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=th3onu5&show_icons=true&theme=matrix&border_color=00ff00&border_radius=10&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=th3onu5&layout=compact&theme=matrix&border_color=00ff00&border_radius=10&bg_color=0D1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=th3onu5&theme=matrix&border=00FF00&background=0D1117)](https://git.io/streak-stats)
-
-```ascii
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█ TERMINAL CONNECTED █
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-```
-
-</div>
-
----
-
-<div align="center">
-
-```ascii
-[ ENCRYPTION LEVEL: MAXIMUM | ACCESS LEVEL: CLASSIFIED ]
-```
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
