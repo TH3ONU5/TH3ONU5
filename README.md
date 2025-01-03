@@ -1,3 +1,4 @@
+<br>
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=4000&pause=1000&color=00FF00&center=true&width=1000&lines=SYSTEM+BOOT:+TH3ONU5;INITIALIZING...;ACCESS+GRANTED)
