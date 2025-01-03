@@ -43,7 +43,7 @@
 
 ### Operating Systems & Platforms
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-6495ED?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Make_Linux-6495ED?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-6495ED?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 📊 GitHub Stats
 
