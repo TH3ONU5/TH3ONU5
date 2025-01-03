@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=00FF00&center=true&width=1000&lines=Hi,+I'm+Mahdi!;Student,+Web+Developer,+and+Pentester.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=blue&center=true&width=1000&lines=Hi,+I'm+Mahdi!;Student,+Web+Developer,+and+Pentester.)
 
 ---
 
