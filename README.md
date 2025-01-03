@@ -1,8 +1,8 @@
 <div align="left">
 
-# Hi there, I'm Mahdi! 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4169E1&center=true&width=1000&height=100&lines=Pentester+%26+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+![Hello World](./hello-world.png)
 
 ## 💫 About Me
 - 🔭 Professional Penetration Tester
