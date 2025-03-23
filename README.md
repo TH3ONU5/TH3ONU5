@@ -59,7 +59,5 @@
 ## 🐍 Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-## 💭 Quote
-> “I don't hack - I just discover how secure the system really is!"
 
 </div>
